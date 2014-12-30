@@ -94,7 +94,7 @@ void write_data_fpga(uint32_t ch,
 
 /** Print usage information */
 void usage() {
-
+    
     const char *format =
         "%s version %s-%s\n"
         "\n"
